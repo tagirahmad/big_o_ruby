@@ -1,0 +1,39 @@
+GEM
+  specs:
+    ast (2.4.2)
+    benchmark (0.2.0)
+    json (2.6.3)
+    parallel (1.22.1)
+    parser (3.2.1.0)
+      ast (~> 2.4.1)
+    rainbow (3.1.1)
+    regexp_parser (2.6.2)
+    rexml (3.2.5)
+    rubocop (1.42.0)
+      json (~> 2.3)
+      parallel (~> 1.10)
+      parser (>= 3.1.2.1)
+      rainbow (>= 2.2.2, < 4.0)
+      regexp_parser (>= 1.8, < 3.0)
+      rexml (>= 3.2.5, < 4.0)
+      rubocop-ast (>= 1.24.1, < 2.0)
+      ruby-progressbar (~> 1.7)
+      unicode-display_width (>= 1.4.0, < 3.0)
+    rubocop-ast (1.24.1)
+      parser (>= 3.1.1.0)
+    ruby-progressbar (1.11.0)
+    tty-cursor (0.7.1)
+    tty-sparkline (0.1.0)
+      tty-cursor (~> 0.7)
+    unicode-display_width (2.4.2)
+
+PLATFORMS
+  x86_64-darwin-21
+
+DEPENDENCIES
+  benchmark
+  rubocop
+  tty-sparkline
+
+BUNDLED WITH
+   2.3.15
