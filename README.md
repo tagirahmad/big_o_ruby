@@ -1,5 +1,5 @@
 # BigO
-Small project about data structures and algorithms implementations in Ruby and simple graphic illustrations.
+Small project about BigO (Space and Time Complexity) and implementations in Ruby with simple graphic illustrations.
 ## Usage
 
 ### BigO::Linear
